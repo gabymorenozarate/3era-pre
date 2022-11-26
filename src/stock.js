@@ -6,7 +6,7 @@ const productos =
         tipo: "Cerveza Rubia",
         desc: "Cerveza ligera, fresca",
         precio: 370,
-        img: 'public/images/miller.jpg',
+        img: 'public/css/imgs/miller.jpg',
         cantidad:1
     },
 
@@ -16,7 +16,7 @@ const productos =
         tipo: "Cerveza Rubia",
         desc: "Buen cuerpo, suave amargor",
         precio: 400,
-        img: './public/images/heineken.jpg.png',
+        img: 'public/css/imgs/heineken.jpg.png',
         cantidad:1
     },
 
@@ -26,7 +26,7 @@ const productos =
         tipo: "Cerveza Negra",
         desc: "Negra, buen cuerpo y espuma",
         precio: 650,
-        img: 'public/images/guiness.jpg',
+        img: 'public/css/imgs/guiness.jpg',
         cantidad:1
     },
 
@@ -36,7 +36,7 @@ const productos =
         tipo: "Cerveza Rubia",
         desc: "La mejor birra italiana",
         precio: 600,
-        img: 'public/images/peroni.jpg',
+        img: 'public/css/imgs/peroni.jpg',
         cantidad:1
     },
 
@@ -46,7 +46,7 @@ const productos =
         tipo: "Cerveza Rubia",
         desc: "Cerveza con buen amargor",
         precio: 500,
-        img: 'public/images/grolsch.jpg',
+        img: 'public/css/imgs/grolsch.jpg',
         cantidad:1
     },
 
@@ -56,7 +56,7 @@ const productos =
         tipo: "Cerveza Rubia",
         desc: "La mas fina de todas",
         precio: 400,
-        img: 'public/images/corona.jpg',
+        img: 'public/css/imgs/corona.jpg',
         cantidad:1
     }
 ]
